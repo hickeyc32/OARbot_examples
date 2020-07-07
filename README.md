@@ -13,4 +13,4 @@ Only library dependencies required are ROS (Kinetic or later), OpenCV2, and Gaze
 
 [Gazebo](http://gazebosim.org/tutorials?tut=ros_installing&cat=connect_ros#Introduction)
 
-[Kinova] (https://github.com/Kinovarobotics/kinova-ros)
+[Kinova](https://github.com/Kinovarobotics/kinova-ros)
