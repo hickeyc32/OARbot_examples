@@ -6,7 +6,7 @@ roslaunch [PACKAGE] example.launch
 
 Only library dependencies required are ROS (Kinetic or later), OpenCV2, Pygame, and Gazebo. However, these examples also use the URDF models for the OARbot and Kinova robotic arm. All launch files will load the models into gazebo and execute the rospy scripts there.
 
-## Ubuntu Installation Tutorials
+## Installation Tutorials
 [ROS](http://wiki.ros.org/melodic/Installation/Ubuntu)
 
 [OpenCV2](https://docs.opencv.org/trunk/d7/d9f/tutorial_linux_install.html)
