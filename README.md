@@ -26,4 +26,4 @@ Basic go-to point test of the OARbot that demonstrates it's omnidirectional move
 By using Haar Cascades in OpenCV2, a webcam can detect a users face and smile to control the movement of the OARbot.
 
 #### banjOAR_kazooie
-The pygame library is used to control the OARbot with WASD movement and mouse-controlled look. The gazebo world is a *rough* recreation of the level "Spiral Mountain" from Banjo-Kazooie
+The pygame library is used to control the OARbot with WASD movement and mouse-controlled look. The gazebo world is a *rough* recreation of the level "Spiral Mountain" from Banjo-Kazooie. To load the world map you must have the "spiral_mountain.sdf" file in your working directory, or an appropriate path must be provided.
